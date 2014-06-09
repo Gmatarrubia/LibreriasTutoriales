@@ -9,7 +9,7 @@
 
 class Serial
 {
-    public:
+    private:
         //Serial comm handler
         HANDLE hSerial;
         //Connection status
